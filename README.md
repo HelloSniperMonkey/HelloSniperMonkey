@@ -20,4 +20,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellosnipermonkey&show_icons=true&locale=en&layout=compact" alt="hellosnipermonkey" /></p>
 
-<img alt="HelloSniperMonkey's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloSniperMonkey&theme=white&&hide_border=true" width='48%' /> <img alt="HelloSniperMonkey's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=HelloSniperMonkey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellosnipermonkey&" alt="hellosnipermonkey" />
+<img alt="HelloSniperMonkey's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=HelloSniperMonkey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
