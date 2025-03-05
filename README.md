@@ -23,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=HelloSniperMonkey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="hellosnipermonkey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellosnipermonkey&" alt="hellosnipermonkey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellosnipermonkey&" alt="hellosnipermonkey" /></p>
